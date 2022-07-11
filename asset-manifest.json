@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/Protfolio-app-using-react/static/css/main.65333595.chunk.css",
+    "main.js": "/Protfolio-app-using-react/static/js/main.fa523e9b.chunk.js",
+    "main.js.map": "/Protfolio-app-using-react/static/js/main.fa523e9b.chunk.js.map",
+    "runtime-main.js": "/Protfolio-app-using-react/static/js/runtime-main.991a6b33.js",
+    "runtime-main.js.map": "/Protfolio-app-using-react/static/js/runtime-main.991a6b33.js.map",
+    "static/css/2.b78a1613.chunk.css": "/Protfolio-app-using-react/static/css/2.b78a1613.chunk.css",
+    "static/js/2.0c645ce4.chunk.js": "/Protfolio-app-using-react/static/js/2.0c645ce4.chunk.js",
+    "static/js/2.0c645ce4.chunk.js.map": "/Protfolio-app-using-react/static/js/2.0c645ce4.chunk.js.map",
+    "static/js/3.21ce42cb.chunk.js": "/Protfolio-app-using-react/static/js/3.21ce42cb.chunk.js",
+    "static/js/3.21ce42cb.chunk.js.map": "/Protfolio-app-using-react/static/js/3.21ce42cb.chunk.js.map",
+    "index.html": "/Protfolio-app-using-react/index.html",
+    "static/css/2.b78a1613.chunk.css.map": "/Protfolio-app-using-react/static/css/2.b78a1613.chunk.css.map",
+    "static/css/main.65333595.chunk.css.map": "/Protfolio-app-using-react/static/css/main.65333595.chunk.css.map",
+    "static/js/2.0c645ce4.chunk.js.LICENSE.txt": "/Protfolio-app-using-react/static/js/2.0c645ce4.chunk.js.LICENSE.txt",
+    "static/media/Khalid.2efb9142.jpeg": "/Protfolio-app-using-react/static/media/Khalid.2efb9142.jpeg",
+    "static/media/Misbahul.27e52cd0.jpeg": "/Protfolio-app-using-react/static/media/Misbahul.27e52cd0.jpeg",
+    "static/media/Nazmul.a6af98d4.jpeg": "/Protfolio-app-using-react/static/media/Nazmul.a6af98d4.jpeg",
+    "static/media/index.css": "/Protfolio-app-using-react/static/media/Poppins-Thin.a61eaf4c.ttf",
+    "static/media/Sadi.ad17baed.jpeg": "/Protfolio-app-using-react/static/media/Sadi.ad17baed.jpeg",
+    "static/media/Testimonial.css": "/Protfolio-app-using-react/static/media/bg-1.e7a118c3.jpg",
+    "static/media/Home.css": "/Protfolio-app-using-react/static/media/bg.2d8af274.jpg",
+    "static/media/education.svg": "/Protfolio-app-using-react/static/media/education.10cfa28a.svg",
+    "static/media/interests.svg": "/Protfolio-app-using-react/static/media/interests.809890a3.svg",
+    "static/media/lady.2c54ef6a.png": "/Protfolio-app-using-react/static/media/lady.2c54ef6a.png",
+    "static/media/mailz.d13d5e32.jpeg": "/Protfolio-app-using-react/static/media/mailz.d13d5e32.jpeg",
+    "static/media/man.bd25aa38.png": "/Protfolio-app-using-react/static/media/man.bd25aa38.png",
+    "static/media/AboutMe.css": "/Protfolio-app-using-react/static/media/me.8b544af0.jpg",
+    "static/media/mike.8af8bcf1.png": "/Protfolio-app-using-react/static/media/mike.8af8bcf1.png",
+    "static/media/Profile.css": "/Protfolio-app-using-react/static/media/profilephoto.b7a1690f.jpg",
+    "static/media/programming-skills.svg": "/Protfolio-app-using-react/static/media/programming-skills.d19983a9.svg",
+    "static/media/projects.svg": "/Protfolio-app-using-react/static/media/projects.2b352a52.svg",
+    "static/media/work-history.svg": "/Protfolio-app-using-react/static/media/work-history.a566475d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.991a6b33.js",
+    "static/css/2.b78a1613.chunk.css",
+    "static/js/2.0c645ce4.chunk.js",
+    "static/css/main.65333595.chunk.css",
+    "static/js/main.fa523e9b.chunk.js"
+  ]
+}
