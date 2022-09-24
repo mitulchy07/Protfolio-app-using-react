@@ -10,19 +10,19 @@ export default function Profile() {
         <div className="profile-details">
           <div className="colz">
             <div className="colz-icon">
-              <a href="https://www.facebook.com/hasanchowdhuri97">
+              <a href="https://www.facebook.com/hasanchowdhuri97" target="_blank">
                 <i className="fa fa-facebook-square" />
               </a>
-              <a href="#">
+              <a href=" " >
                 <i className="fa fa-google-plus-square" />
               </a>
-              <a href="#">
+              <a href=" ">
                 <i className="fa fa-instagram" />
               </a>
-              <a href="https://www.youtube.com/channel/UCMBhfavyhULt1qsipH_Ufsg/">
+              <a href="https://www.youtube.com/channel/UCMBhfavyhULt1qsipH_Ufsg/" target="_blank">
                 <i className="fa fa-youtube-square" />
               </a>
-              <a href="#">
+              <a href=" " >
                 <i className="fa fa-twitter" />
               </a>
             </div>
@@ -30,7 +30,7 @@ export default function Profile() {
           <div className="profile-details-name">
             <span className="primary-text">
               {" "}
-              Hello, I'M{" "}
+              Hello, I'm{" "}
               <span className="highlighted-text">Hasan Chowdhuri</span>
             </span>
           </div>
@@ -56,7 +56,7 @@ export default function Profile() {
               </h1>
             </span>
             <span className="profile-role-tagline">
-              Knack of building applications with front and back end operations.
+              My job is building website with frontend and backend operations.
             </span>
           </div>
 
