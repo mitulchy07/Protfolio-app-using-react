@@ -14,13 +14,12 @@ export default function AboutMe(props) {
 
   const SCREEN_CONSTSANTS = {
     description:
-      "I am a flutter mobile application developer. But I have idea for website development and marketing on youtube and facebook.",
+      "I am a fullstack web developer. But I have idea for mobile application development and marketing on youtube and facebook as well as SEO.",
     highlights: {
       bullets: [
-        "Flutter Developer",
-        "React Developer",
+        "Fullstack Web Developer",
+        "UI/UX Designer",
         "SEO Developer",
-        "Youtube Matketing",
         "Facebook Marketing",
         "Content Creator",
         

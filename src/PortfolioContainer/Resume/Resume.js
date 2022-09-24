@@ -53,16 +53,14 @@ const Resume = (props) => {
 
   //here we have
   const programmingSkillsDetails = [
-    { skill: "Flutter", ratingPercentage: 60 },
-    { skill: "SEO Developer", ratingPercentage: 90 },
-    { skill: "Dart", ratingPercentage: 70 },
-    { skill: "Youtube Marketing", ratingPercentage: 80 },
-    { skill: "React", ratingPercentage: 40 },
-    { skill: "Facebook Marketing", ratingPercentage: 80 },
-    { skill: "Firebase", ratingPercentage: 30 },
+    { skill: "React", ratingPercentage: 80 },
+    { skill: "NodeJS", ratingPercentage: 80 },
     { skill: "UI/UX Developement", ratingPercentage: 50 },
+    { skill: "Bootstrap", ratingPercentage: 90 },     
     { skill: "CSS", ratingPercentage: 80 },
     { skill: "HTML", ratingPercentage: 80 },
+    { skill: "Facebook Marketing", ratingPercentage: 80 },
+    { skill: "SEO Developer", ratingPercentage: 90 },
   ];
 
   const projectsDetails = [
@@ -85,7 +83,7 @@ const Resume = (props) => {
       duration: { fromDate: "2018", toDate: "2019" },
       description:
         "Online ecommerce website for showcasing and selling products onlne with payment system integration, both Paypal and Stripe",
-      subHeading: "Technologies Used: React Js, Node JS, Redux, Bootstrap.",
+      subHeading: "Technologies Used: React Js, Node JS, Bootstrap.",
     },
   ];
 

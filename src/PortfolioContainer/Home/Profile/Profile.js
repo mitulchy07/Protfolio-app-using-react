@@ -41,15 +41,15 @@ export default function Profile() {
                 <Typical
                   loop={Infinity}
                   steps={[
-                    "Flutter Developer",
-                    1000,
-                    "React Developer",
+                    "Fullstack Web Developer",
                     1000,
                     "SEO Developer",
                     1000,
-                    "Youtube Marketing",
+                    "Ui/Ux Designing",
                     1000,
                     "Facebook Marketing",
+                    1000,
+                    "Youtube Marketing",
                     1000,
                   ]}
                 />
